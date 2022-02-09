@@ -63,7 +63,7 @@ vai alinhar o texto no centro
 
 /*Anime principal*/
 .anime-principal {
-    /*Puta que pariu, na parte de background faz uns contraste muito foda, vale a pena mexer nos rgb depois*/
+    
     font-size: 18px;
     background: linear-gradient(rgba(0,0,0,.60), rgba(53, 12, 235, 0.5)100%), url('./img/kizumonogatari.jpg');
 
